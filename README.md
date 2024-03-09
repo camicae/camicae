@@ -1,7 +1,7 @@
 <h1 align="center">Opa, tudo bem? 👋 Me chamo Guilherme Lincoln</h1>
 <h3 align="center">Me divirto aprendendo, então procuro sempre me divertir. Apaixonado em Matemática, Computação e outras STEM's!</h3>
 
-- 🌱 I’m currently learning **JavaScript, HTML & C++**
+- 🌱 I’m currently learning **JavaScript, HTML & TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/glincolndev](https://github.com/glincolndev)
 
