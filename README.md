@@ -3,11 +3,11 @@
 
 - 🌱 Atualmente estudando **JavasScript, Python & SQL**
 
-- 📫 Contato **dev.glincoln@gmail.com**
+- 📫 Contato: **dev.glincoln@gmail.com**
 
-- 📄 Currículo [https://drive.google.com/file/d/1LhrMBCnUge3QP4IE1tNxJQw-vP_qYJWM/view?usp=sharing](https://drive.google.com/file/d/1LhrMBCnUge3QP4IE1tNxJQw-vP_qYJWM/view?usp=sharing)
+- 📄 Currículo: [https://drive.google.com/file/d/1LhrMBCnUge3QP4IE1tNxJQw-vP_qYJWM/view?usp=sharing](https://drive.google.com/file/d/1LhrMBCnUge3QP4IE1tNxJQw-vP_qYJWM/view?usp=sharing)
 
-- ⚡ Fun fact **Meus pets tem nome de comida**
+- ⚡ Fun fact: **Meus pets tem nome de comida**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
