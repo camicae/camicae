@@ -1,11 +1,11 @@
 <h1 align="center">Olá! Tudo bem? 👋 Me chamo Guilherme!</h1>
 <h3 align="center">Estudante de Ciência e Tecnologia (UFRN) e desenvolvedor JavaScript</h3>
 
-- 🌱 Atualmente estudando **JavasScript, Python & SQL**
+- 🌱 Atualmente estudando **JavaScript, Python & SQL**
 
 - 📫 Contato: **dev.glincoln@gmail.com**
 
-- 📄 Currículo: [https://drive.google.com/file/d/1LhrMBCnUge3QP4IE1tNxJQw-vP_qYJWM/view?usp=sharing](https://drive.google.com/file/d/1LhrMBCnUge3QP4IE1tNxJQw-vP_qYJWM/view?usp=sharing)
+- 📄 Currículo: https://drive.google.com/file/d/1JY85fxiP58sJbg_mAtSVHZU1SwBZgC0f/view?usp=sharing
 
 - ⚡ Fun fact: **Meus pets tem nome de comida**
 
