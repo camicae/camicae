@@ -5,7 +5,7 @@
 
 - 📫 Contato: **dev.glincoln@gmail.com**
 
-- 📄 Currículo: [Link](https://drive.google.com/file/d/1xb6efU1rO5-uazSOGzQqkW7q7eLiuw5-/view?usp=sharing)
+- 📄 Currículo: [Link](https://drive.google.com/file/d/1wfd3cRmpIoo1sZNZHEgHZNYTP2ciQm7h/view?usp=sharing)
 
 - ⚡ Fun fact: **Meus pets tem nome de comida**
 
