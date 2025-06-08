@@ -1,14 +1,13 @@
 <h1 align="center">Oi! Eu sou o Guilherme!</h1>
 <h3 align="center">Estudante de Ciência e Tecnologia (UFRN) e desenvolvedor JavaScript</h3>
 
-- 🌱 Atualmente estudando **JavaScript, Python & SQL**
+- 👩‍💻 Atualmente programando em: **JavaScript, Python & SQL**
 
-- 📫 Contato:
-- Email: **dev.glincoln@gmail.com**
-- Linkedin: [Link](www.linkedin.com/in/guilherme-lincoln-7343431b7)
-- 
-
-- 📄 Currículo: [Link](https://drive.google.com/file/d/1wfd3cRmpIoo1sZNZHEgHZNYTP2ciQm7h/view?usp=sharing)
+- Contato:
+- 📫 Email: **dev.glincoln@gmail.com**
+- 💼 [Linkedin](www.linkedin.com/in/guilherme-lincoln-7343431b7)
+  
+- 📄 [Currículo](https://drive.google.com/file/d/1wfd3cRmpIoo1sZNZHEgHZNYTP2ciQm7h/view?usp=sharing)
 
 - ⚡ Fun fact: **Meus pets tem nome de comida**
 
