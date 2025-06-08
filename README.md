@@ -1,5 +1,5 @@
 <h1 align="center">Oi! Eu sou o Guilherme!</h1>
-<h3 align="center">Estudante de Ciência e Tecnologia (UFRN) e desenvolvedor JavaScript</h3>
+<h3 align="center">Desenvolvedor JavaScript e Estudante de Ciências e Tecnologia (UFRN)</h3>
 
 👩‍💻 Atualmente programando em: **JavaScript, Python & SQL**
 
