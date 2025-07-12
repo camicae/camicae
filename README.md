@@ -1,7 +1,7 @@
 <h1 align="center">Oi! Eu sou a Camila!</h1>
-<h3 align="center">Desenvolvedor JavaScript e Estudante de Ciências e Tecnologia (UFRN)</h3>
+<h3 align="center">Desenvolvedora Python e Estudante de Ciências e Tecnologia (UFRN)</h3>
 
-👩‍💻 Atualmente programando em: **JavaScript, Python & SQL**
+👩‍💻 Atualmente programando em: **Python & SQL**
 
 Contato:
 
