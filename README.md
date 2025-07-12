@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Eu sou o Guilherme!</h1>
+<h1 align="center">Oi! Eu sou a Camila!</h1>
 <h3 align="center">Desenvolvedor JavaScript e Estudante de Ciências e Tecnologia (UFRN)</h3>
 
 👩‍💻 Atualmente programando em: **JavaScript, Python & SQL**
