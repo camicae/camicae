@@ -9,7 +9,7 @@ Contato:
 
 💼 [Linkedin]()
   
-📄 [Currículo](https://drive.google.com/file/d/1wfd3cRmpIoo1sZNZHEgHZNYTP2ciQm7h/view?usp=sharing)
+📄 [Currículo]()
 
 ⚡ Fun fact: **Meus pets tem nome de comida**
 
