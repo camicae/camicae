@@ -5,7 +5,7 @@
 
 Contato:
 
-📫 Email: **dev.glincoln@gmail.com**
+📫 Email: **dev.camicae@gmail.com**
 
 💼 [Linkedin](www.linkedin.com/in/guilherme-lincoln-7343431b7)
   
