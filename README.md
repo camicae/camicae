@@ -7,7 +7,7 @@ Contato:
 
 📫 Email: **dev.camicae@gmail.com**
 
-💼 [Linkedin](www.linkedin.com/in/guilherme-lincoln-7343431b7)
+💼 [Linkedin]()
   
 📄 [Currículo](https://drive.google.com/file/d/1wfd3cRmpIoo1sZNZHEgHZNYTP2ciQm7h/view?usp=sharing)
 
