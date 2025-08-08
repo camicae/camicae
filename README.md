@@ -1,13 +1,13 @@
 <h1 align="center">Oi! Eu sou a Camila!</h1>
 <h3 align="center">Desenvolvedora Python e Estudante de Ciências e Tecnologia (UFRN)</h3>
 
-👩‍💻 Atualmente programando em: **Python & SQL**
+👩‍💻 Atualmente programando em: **Python & C++**
 
 Contato:
 
 📫 Email: **dev.camicae@gmail.com**
 
-💼 [Linkedin]()
+💼 [Linkedin](www.linkedin.com/in/camila-caetana-751589379)
   
 📄 [Currículo]()
 
