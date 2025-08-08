@@ -1,14 +1,18 @@
 <h1 align="center">Oi, aqui é a Camila! 🪐</h1>
-<h3 align="center">Desenvolvedora Python, Auxiliar de Eletrônica Car-Kará Baja SAE, Aluna no Bacharelado em Ciências e Tecnologia (UFRN)</h3>
+<h3 align="center">
+  Desenvolvedora Python
+  Auxiliar de Eletrônica Car-Kará Baja SAE
+  Aluna no Bacharelado em Ciências e Tecnologia (UFRN)</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 - 📫 Email **dev.camicae@gmail.com**
 
 - 📄  [Currículo](https://drive.google.com/file/d/1SOmUkMkdRad8mZN9HPj_uDWDoh1q-ECK/view?usp=sharing)
 
 - 🐾 Fun fact: **Meus pets tem nome de comida**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
