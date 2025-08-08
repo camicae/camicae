@@ -3,7 +3,7 @@
 
 - 📫 Email **dev.camicae@gmail.com**
 
-- 📄 Currículo [https://drive.google.com/file/d/1SOmUkMkdRad8mZN9HPj_uDWDoh1q-ECK/view?usp=sharing](https://drive.google.com/file/d/1SOmUkMkdRad8mZN9HPj_uDWDoh1q-ECK/view?usp=sharing)
+- 📄  [Currículo](https://drive.google.com/file/d/1SOmUkMkdRad8mZN9HPj_uDWDoh1q-ECK/view?usp=sharing)
 
 - 🐾 Fun fact: **Meus pets tem nome de comida**
 
