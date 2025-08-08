@@ -5,7 +5,7 @@
 - **Aluna no Bacharelado em Ciências e Tecnologia (UFRN)**
 
 
-<h5 align="left">Connect with me:</h5>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 - 📫 Email **dev.camicae@gmail.com**
 
