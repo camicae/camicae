@@ -1,7 +1,9 @@
 <h1 align="center">Oi, aqui é a Camila! 🪐</h1>
-<h2 align="left">Desenvolvedora Python</h2>
-<h3 align="left">Auxiliar de Eletrônica Car-Kará Baja SAE</h3>
-<h4 align="left">Aluna no Bacharelado em Ciências e Tecnologia (UFRN)</h4>
+
+- **Desenvolvedora Python**
+- **Auxiliar de Eletrônica Car-Kará Baja SAE**
+- **Aluna no Bacharelado em Ciências e Tecnologia (UFRN)**
+
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
