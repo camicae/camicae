@@ -14,6 +14,8 @@
 
 - 📶📋 [Currículo](https://drive.google.com/file/d/1uA-28NeCRWTSwp9mKd2FuiPI0kuIdaeY/view?usp=sharing) 
 
+- 😎 Sim, eu realmente uso todas essas linguagens  
+
 - 🐾 Fun fact: **Meus pets tem nome de comida**
 
 
