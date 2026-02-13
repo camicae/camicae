@@ -8,11 +8,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-- [Dá uma olhadinha no meu projeto mais novo :blush:](https://github.com/camicae/CKInventario)
+- :file_folder:💻  [Dá uma olhadinha no meu projeto mais novo! :blush:](https://github.com/camicae/CKInventario) 🔗 
 
-- 📫 Email **dev.camicae@gmail.com**
+- 📫📧  Email **dev.camicae@gmail.com** 
 
-- 📄  [Currículo](https://drive.google.com/file/d/1uA-28NeCRWTSwp9mKd2FuiPI0kuIdaeY/view?usp=sharing)
+- 📶📋 [Currículo](https://drive.google.com/file/d/1uA-28NeCRWTSwp9mKd2FuiPI0kuIdaeY/view?usp=sharing) 
 
 - 🐾 Fun fact: **Meus pets tem nome de comida**
 
